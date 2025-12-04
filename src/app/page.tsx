@@ -171,6 +171,7 @@ export default function LandingPage() {
               name: "Sarah Mitchell",
               handle: "@sarah.m",
               testimonial: "This mattress has completely transformed my sleep. I wake up refreshed and pain-free for the first time in years. Luxora is a true investment in quality of life.",
+              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764876185302-idhk4xz6.jpg",
               imageAlt: "Sarah Mitchell"
             },
@@ -179,6 +180,7 @@ export default function LandingPage() {
               name: "James Anderson",
               handle: "@james.anderson",
               testimonial: "The craftsmanship is exceptional. Every detail speaks to the premium quality. Worth every penny. My whole family is sleeping better.",
+              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764876185801-44uzrmpd.jpg",
               imageAlt: "James Anderson"
             },
@@ -187,6 +189,7 @@ export default function LandingPage() {
               name: "Elizabeth Rogers",
               handle: "@elizabeth.r",
               testimonial: "Finally found a mattress that provides genuine support without sacrificing comfort. The hand-stitching detail is incredible. A masterpiece.",
+              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764876186448-u8el7j1r.jpg",
               imageAlt: "Elizabeth Rogers"
             },
@@ -195,6 +198,7 @@ export default function LandingPage() {
               name: "Michael Chen",
               handle: "@michael.chen",
               testimonial: "After trying countless brands, Luxora stands in a league of its own. The customer service is outstanding, and the product quality is unmatched.",
+              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764876187128-t3g37cx6.jpg",
               imageAlt: "Michael Chen"
             },
@@ -203,6 +207,7 @@ export default function LandingPage() {
               name: "Jennifer Walsh",
               handle: "@jen.walsh",
               testimonial: "The best purchase I've made in years. I'm sleeping deeper, feeling more refreshed, and waking without any aches. This is luxury sleep redefined.",
+              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764876185302-idhk4xz6.jpg",
               imageAlt: "Jennifer Walsh"
             },
@@ -211,6 +216,7 @@ export default function LandingPage() {
               name: "Robert Thompson",
               handle: "@rob.thompson",
               testimonial: "Luxora delivers on every promise. Premium materials, expert craftsmanship, and genuine customer care. This is what true luxury feels like.",
+              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764876185801-44uzrmpd.jpg",
               imageAlt: "Robert Thompson"
             }

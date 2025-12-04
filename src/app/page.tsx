@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -113,7 +113,6 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground="noInvert"
           cardClassName="border border-accent/20 bg-gradient-to-br from-white to-purple-50/30"
-          titleClassName="text-3xl md:text-4xl font-extrabold"
           textBoxDescriptionClassName="text-base opacity-75"
         />
       </div>
@@ -155,7 +154,6 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground="noInvert"
           cardClassName="border border-accent/20 bg-gradient-to-br from-white to-purple-50/30 hover:shadow-xl transition-shadow"
-          titleClassName="text-3xl md:text-4xl font-extrabold"
           textBoxDescriptionClassName="text-base opacity-75"
           cardNameClassName="font-bold text-lg"
           cardPriceClassName="text-2xl font-extrabold text-primary-cta"
@@ -222,7 +220,6 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground="noInvert"
           cardClassName="border border-accent/20 bg-gradient-to-br from-white to-purple-50/30"
-          titleClassName="text-3xl md:text-4xl font-extrabold"
           textBoxDescriptionClassName="text-base opacity-75"
           testimonialClassName="text-base italic font-light leading-relaxed"
         />
@@ -243,7 +240,6 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground="noInvert"
           logoCardClassName="bg-gradient-to-br from-white to-purple-50/30 border border-accent/20"
-          titleClassName="text-3xl md:text-4xl font-extrabold"
         />
       </div>
 
@@ -313,7 +309,6 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground="noInvert"
           cardClassName="border border-accent/20 bg-gradient-to-br from-white to-purple-50/30"
-          titleClassName="text-3xl md:text-4xl font-extrabold"
           badgeClassName="bg-primary-cta text-white text-xs font-bold px-3 py-1 rounded-full"
           priceClassName="text-4xl font-extrabold text-primary-cta"
           featureItemClassName="text-sm font-medium opacity-75"
